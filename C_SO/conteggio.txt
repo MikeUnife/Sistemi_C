@@ -1,0 +1,5 @@
+primocanto.txt fiera
+primocanto.txt /bin/sh
+primocanto.txt /usr/bin/env
+primocanto.txt le
+primocanto.txt /tmp/Microsoft-MIEngine-Cmd-rkr0mjm0.otk
